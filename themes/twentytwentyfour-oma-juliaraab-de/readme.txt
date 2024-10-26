@@ -1,4 +1,4 @@
-=== jr24 ===
+=== twentytwentyfour-oma-juliaraab-de ===
 Contributors: 
 Requires at least: 6.0
 Tested up to: 6.4.3
@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-
+Files & folders of oma.juliaraab.de inside the figuren.theater WordPress Multisite network
 
 == Changelog ==
 
@@ -17,8 +17,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Copyright ==
 
-jr24 WordPress Theme, (C) 2024 
-jr24 is distributed under the terms of the GNU GPL.
+twentytwentyfour-oma-juliaraab-de WordPress Theme, (C) 2024 
+twentytwentyfour-oma-juliaraab-de is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
