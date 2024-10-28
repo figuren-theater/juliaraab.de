@@ -1,8 +1,8 @@
 === twentytwentyfour-oma-juliaraab-de ===
 Contributors: 
-Requires at least: 6.0
-Tested up to: 6.4.3
-Requires PHP: 5.7
+Requires at least: 6.6
+Tested up to: 6.6.2
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
