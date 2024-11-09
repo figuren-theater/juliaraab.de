@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/figuren-theater/BLOG_template">
+  <a href="https://github.com/figuren-theater/juliaraab.de">
     <img src="https://raw.githubusercontent.com/figuren-theater/logos/main/favicon.png" alt="figuren.theater Logo" width="100" height="100">
   </a>
 
-  <h1 align="center">figuren.theater | blog_template</h1>
+  <h1 align="center">juliaraab.de</h1>
 
   <p align="center">
-    ... like the WordPress Multisite network for puppeteers - <a href="https://figuren.theater">figuren.theater</a>.
+    Files & folders of <a href="https://juliaraab.de">juliaraab.de</a> inside the WordPress Multisite network for puppeteers - <a href="https://figuren.theater">figuren.theater</a>.
     <br /><br /><br />
     <a href="https://meta.figuren.theater/blog"><strong>Read our blog</strong></a>
     <br />
