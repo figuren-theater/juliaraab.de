@@ -93,6 +93,25 @@
 					"slug": "bullpen-3-d"
 				}
 			]
+		},
+		"shadow": { 
+			"presets": [ 
+				{
+					"name": "3D Shadow Accent 1",
+					"shadow": "1px 1px 0 0 var(--wp--preset--color--accent),2px 2px 0 0 var(--wp--preset--color--accent),3px 3px 0 0 var(--wp--preset--color--accent),4px 4px 0 0 var(--wp--preset--color--accent),5px 5px 0 0 var(--wp--preset--color--accent),6px 6px 0 0 var(--wp--preset--color--accent),7px 7px 0 0 var(--wp--preset--color--accent),8px 8px 0 0 var(--wp--preset--color--accent),9px 9px 0 0 var(--wp--preset--color--accent);",
+					"slug": "3d-shadow-accent-1"
+				},
+				{
+					"name": "3D Shadow Accent 3",
+					"shadow": "1px 1px 0 0 var(--wp--preset--color--accent-3),2px 2px 0 0 var(--wp--preset--color--accent-3),3px 3px 0 0 var(--wp--preset--color--accent-3),4px 4px 0 0 var(--wp--preset--color--accent-3),5px 5px 0 0 var(--wp--preset--color--accent-3),6px 6px 0 0 var(--wp--preset--color--accent-3),7px 7px 0 0 var(--wp--preset--color--accent-3),8px 8px 0 0 var(--wp--preset--color--accent-3),9px 9px 0 0 var(--wp--preset--color--accent-3);",
+					"slug": "3d-shadow-accent-3"
+				},
+				{
+					"name": "3D Shadow Accent 4",
+					"shadow": "1px 1px 0 0 var(--wp--preset--color--accent-4),2px 2px 0 0 var(--wp--preset--color--accent-4),3px 3px 0 0 var(--wp--preset--color--accent-4),4px 4px 0 0 var(--wp--preset--color--accent-4),5px 5px 0 0 var(--wp--preset--color--accent-4),6px 6px 0 0 var(--wp--preset--color--accent-4),7px 7px 0 0 var(--wp--preset--color--accent-4),8px 8px 0 0 var(--wp--preset--color--accent-4),9px 9px 0 0 var(--wp--preset--color--accent-4);",
+					"slug": "3d-shadow-accent-4"
+				}
+			]
 		}
 	},
 	"styles": {
@@ -165,17 +184,12 @@
 					"fontWeight": "400",
 					"textTransform": "uppercase"
 				},
-                "elements": {
-                    "link": {
-                        "typography": {
-                            "fontFamily": "var(--wp--preset--font-family--bullpen-3-d)"
-                        }
-                    }
-                }
-			},
-			"createwithrani/superlist-block": {
-				"color": {
-					"background": "var(--wp--preset--color--accent-4)"
+				"elements": {
+					"link": {
+						"typography": {
+							"fontFamily": "var(--wp--preset--font-family--bullpen-3-d)"
+						}
+					}
 				}
 			}
 		},
